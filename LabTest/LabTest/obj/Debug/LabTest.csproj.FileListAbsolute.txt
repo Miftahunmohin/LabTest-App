@@ -1,0 +1,10 @@
+G:\My Made Program\LabTest\LabTest\bin\Debug\LabTest.exe.config
+G:\My Made Program\LabTest\LabTest\bin\Debug\LabTest.exe
+G:\My Made Program\LabTest\LabTest\bin\Debug\LabTest.pdb
+G:\My Made Program\LabTest\LabTest\bin\Debug\CSVLib.dll
+G:\My Made Program\LabTest\LabTest\obj\Debug\LabTest.csprojResolveAssemblyReference.cache
+G:\My Made Program\LabTest\LabTest\obj\Debug\LabTest.DailyExpenseUI.resources
+G:\My Made Program\LabTest\LabTest\obj\Debug\LabTest.Properties.Resources.resources
+G:\My Made Program\LabTest\LabTest\obj\Debug\LabTest.csproj.GenerateResource.Cache
+G:\My Made Program\LabTest\LabTest\obj\Debug\LabTest.exe
+G:\My Made Program\LabTest\LabTest\obj\Debug\LabTest.pdb
